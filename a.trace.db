@@ -1,4 +1,4 @@
-2020-09-29 14:37:11 jdbc[3]: exception
+2020-09-29 17:15:52 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных уже закрыта (чтобы отключить автоматическое закрытие базы данных при останове JVM, добавьте ";DB_CLOSE_ON_EXIT=FALSE" в URL)
 Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
